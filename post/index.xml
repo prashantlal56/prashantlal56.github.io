@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Prashant Lal</title>
+    <link>https://prashantlal56.github.io/post/</link>
+    <description>Recent content in Projects on Prashant Lal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://prashantlal56.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KPMG Virtual Internship</title>
+      <link>https://prashantlal56.github.io/post/chapter-5/</link>
+      <pubDate>Mon, 06 Jul 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://prashantlal56.github.io/post/chapter-5/</guid>
+      <description>KPMG Data Analytics &amp;amp; Modelling Sprocket Central Pty Ltd , a medium size bikes &amp;amp; cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse &amp;amp; Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information &amp;amp; Modelling team.
+Smith discusses KPMG’s expertise in this space. In particular, he speaks about how the team can effectively analyse the datasets to help Sprocket Central Pty Ltd grow its business.</description>
+    </item>
+    
+    <item>
+      <title>Data science Salary Estimator</title>
+      <link>https://prashantlal56.github.io/post/chapter-4/</link>
+      <pubDate>Sat, 06 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://prashantlal56.github.io/post/chapter-4/</guid>
+      <description>Now a days the demand for data scientist have increased and many different companies are hiring Machine learning and Deep learning practitioner, giving different roles in their companies, assigning different titles and providing wide range salary
+Project Overview  Web scrapped the data from glassdoor.com Cleaned the dataset and extracted relevent columns Did exploratory data analysis to get the insight from data Feature engineered some of the columns Build the Machine learning model Get the model into production using Flask api  Code and Resources Used Python Version : 3.</description>
+    </item>
+    
+    <item>
+      <title>US State coal production Analysis and estimation for year 2018</title>
+      <link>https://prashantlal56.github.io/post/chapter-3/</link>
+      <pubDate>Fri, 22 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://prashantlal56.github.io/post/chapter-3/</guid>
+      <description>The U.S. Energy Information Administration (EIA) is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. EIA programs cover data on coal, petroleum, natural gas, electric, renewable and nuclear energy. EIA is part of the U.S. Department of Energy.
+EIA conducts a comprehensive data collection program that covers the full spectrum of energy sources, end uses, and energy flows; generates short- and long-term domestic and international energy projections; and performs informative energy analyses</description>
+    </item>
+    
+    <item>
+      <title>Rossman Store Sales Prediction</title>
+      <link>https://prashantlal56.github.io/post/chapter-2/</link>
+      <pubDate>Mon, 04 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://prashantlal56.github.io/post/chapter-2/</guid>
+      <description>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+Provided with historical sales data for 1,115 Rossmann stores.</description>
+    </item>
+    
+    <item>
+      <title>Students’ Early Attrition Modelling for Clearwater State University</title>
+      <link>https://prashantlal56.github.io/post/chapter-1/</link>
+      <pubDate>Wed, 15 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://prashantlal56.github.io/post/chapter-1/</guid>
+      <description>Clearwater State University offers a wide variety of degree programs, from online degrees to a doctorate in education. Programs are offered in the streams of the arts, education, business &amp;amp; nursing. Some key strategic goals of the University are:
+ Increase enrolment of students Improve retention, progression and graduation rates Recruit better academically qualified undergraduate and graduate students Increase external funding and recognition   Project Overview  Divided the dataset based on attributes indicating:  financial backgroung of the Student Student performance demographic data   EDA of each dataset Featured engineered some of the columns Concatenation of all the subgroup dataset into one dataset Cross Validation among different models Building model Hypertuning the parameters and rebuilding the model Conclusion  Resources Used Python Version : 3.</description>
+    </item>
+    
+  </channel>
+</rss>
